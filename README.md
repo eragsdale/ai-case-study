@@ -5,7 +5,7 @@ Company
 
 
 # TITLE
-Eltropy: AI Solutions for Credit Unions and Community Banks
+# Eltropy: AI Solutions for Credit Unions and Community Banks
 
 ## Overview and Origin
 
